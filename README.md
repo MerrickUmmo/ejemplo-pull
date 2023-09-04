@@ -1,2 +1,2 @@
-# repositorio para practicar pull
-Practicando pull2   
+# repositorio practicar pull
+Practicando pull
